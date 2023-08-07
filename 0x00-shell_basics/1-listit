@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 ls /root/alx-system_engineering-devops/0x00-shell_basics
+=======
+ls 0x00-shell_basics
+>>>>>>> 301097c2c3c7ca17cc9423b321cc89bfe2b767d3
